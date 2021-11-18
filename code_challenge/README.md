@@ -14,7 +14,7 @@ Input string: 5x5 (1, 3) (4, 4)
 
 Steps to startup:
 1. Download and install dart-sdk.
-2. Open project in Anroid Studio.
-3. Add configuration.
+2. Install Dart plugin for Android Studio.
+3. Open project and add configuration.
 4. Run "main.dart"
 5. Input string with size and coordinates.
